@@ -4,7 +4,8 @@
 
 # Meet Dashlink.
 ### Dashlink is a fast link shortener and CDN designed to help small businesses accelerate their website, all for free, forever.
-## <a href="https://dashlink.co"> Visit Us </a>
+## <a href="https://dashlink.co">Visit Us</a>
+#### (We Are Still In The Process Of Building)
 
 ## Link Shortener
 To achieve low priced link shortening, Dashlink uses a severless API that sends and recieves JSON data faster than you can say dash. With this advantage we can offer prices to small businesses as little as $5 a month, to put that into comparison, Bitly costs $29.99 a month just for their basic plan.  
