@@ -1,4 +1,6 @@
-![Dashlink](https://lh5.googleusercontent.com/VZMrWwVTMsohwhHE-Jl61ZdpuJMMaGuxWIlsK-sB1Fee5wPfZYDuiQHlsgIgV7QSBav5WEqbUgi1j2W4TxmS=w1920-h937-rw)
+<a href="#meet-dashlink">
+<img src="https://lh5.googleusercontent.com/VZMrWwVTMsohwhHE-Jl61ZdpuJMMaGuxWIlsK-sB1Fee5wPfZYDuiQHlsgIgV7QSBav5WEqbUgi1j2W4TxmS=w1920-h937-rw">
+</a>
 
 # Meet Dashlink.
 ### Dashlink is a fast link shortener and CDN designed to help small businesses accelerate their website, all for free, forever.
